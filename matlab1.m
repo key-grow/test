@@ -6,3 +6,4 @@ subplot(121);
 imshow(I);
 subplot(122);
 imshow(BW);
+%%尝试一下
